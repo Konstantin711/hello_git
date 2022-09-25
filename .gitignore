@@ -1,0 +1,10 @@
+### Ignore for Windows system` files ###
+*.SYS
+*.DLL
+*.CAB
+*.MSI
+*.ICO
+*.LNK
+*.DMP
+*.TMP
+*.INI
